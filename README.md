@@ -1,10 +1,15 @@
 <div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+   <picture>
+      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+   </picture>
 </div>
 
 <h1 align="center">
-  <b>Hola, mi nombre es Tomás Bidegain</b>
-  <img src="https://www.emojiall.com/images/120/telegram/1f468-200d-1f4bb.gif" width="35">
+   <b>Hola, mi nombre es Tomás Bidegain</b>
+
+   <picture>
+      <img src="https://www.emojiall.com/images/120/telegram/1f468-200d-1f4bb.gif" width="35">
+   </picture>
 </h1>
 
 <p align="center">
@@ -36,6 +41,8 @@
 ## ⚡ Stack tecnologico
 
 ### 🎨 Frontend
+<picture>
+   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
@@ -48,21 +55,35 @@
 ![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=fff)
 
+</picture>
+
 ### ⚙️ Backend
+<picture>
+   
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
+</picture>
+
 ### 🛠️ Herramientas
+<picture>
+   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
+</picture>
+
 ### 🤖 IA & Productividad
+<picture>
+   
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=fff)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
 ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-0A66C2?style=for-the-badge)
+
+</picture>
 
 ---
 
@@ -102,5 +123,7 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+   <picture>
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+   </picture>
 </div>
